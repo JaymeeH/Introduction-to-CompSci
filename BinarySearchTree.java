@@ -1,3 +1,4 @@
+// Lab 8 Trees / Jaymee Hyppolite
 import java.util.Scanner;
 public class BinarySearchTree
 {
